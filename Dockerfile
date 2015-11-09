@@ -1,5 +1,5 @@
 # Use ubuntu:latest as base image.
-FROM ubuntu:latest
+FROM ubuntu:14.04
 
 MAINTAINER Alexis N-o "alexis@henaut.net"
 
